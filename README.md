@@ -1,11 +1,14 @@
 <h1 align="center">Hi <span id="wave" style="animation: wave 2s infinite;">👋</span>, I'm Ayushi Sarkar</h1>
-@keyframes wave {
+<style>
+    @keyframes wave {
     0% { transform: rotate(0deg); }
     25% { transform: rotate(15deg); }
     50% { transform: rotate(0deg); }
     75% { transform: rotate(-15deg); }
     100% { transform: rotate(0deg); }
 }
+</style>
+
 
 <h3 align="center">Codes To Upgrade!!</h3>
 
