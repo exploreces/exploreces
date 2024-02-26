@@ -1,14 +1,14 @@
-<h1 align="center">Hi <span id="wave" style="animation: wave 2s infinite;">👋</span>, I'm Ayushi Sarkar</h1>
-<style>
-    @keyframes wave {
-    0% { transform: rotate(0deg); }
-    25% { transform: rotate(15deg); }
-    50% { transform: rotate(0deg); }
-    75% { transform: rotate(-15deg); }
-    100% { transform: rotate(0deg); }
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Profile</title>
+</head>
+<body>
 
+<h1 align="center">Hi <img src="![hello](https://github.com/exploreces/exploreces/assets/125365657/09245453-a1eb-4b28-9292-7ccd5e20a6a7)
+" width="40" />, I'm Ayushi Sarkar</h1>
 
 <h3 align="center">Codes To Upgrade!!</h3>
 
@@ -40,5 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exploreces&" alt="exploreces" /></p>
 
-
-
+</body>
+</html>
