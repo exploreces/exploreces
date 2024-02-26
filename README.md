@@ -7,8 +7,7 @@
 </head>
 <body>
 
-<h1 align="center">Hi <img src="![hello](https://github.com/exploreces/exploreces/assets/125365657/09245453-a1eb-4b28-9292-7ccd5e20a6a7)
-" width="40" />, I'm Ayushi Sarkar</h1>
+<h1 align="center">Hi👋 I'm Ayushi Sarkar</h1>
 
 <h3 align="center">Codes To Upgrade!!</h3>
 
