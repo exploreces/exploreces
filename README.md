@@ -4,7 +4,7 @@
  
  ###
 
-<img align="right" height="250" src="https://i.pinimg.com/564x/c8/8b/03/c88b036ee8dea33951dc7e5d2a1020d2.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/564x/c8/8b/03/c88b036ee8dea33951dc7e5d2a1020d2.jpg"  />
  
 - ✌️ Exploring The coding Galaxy is **Explorces!!**
 
