@@ -1,6 +1,6 @@
  <h1 align="center">Hi👋 I'm Ayushi Sarkar 🧑‍💻Lets Explore The Coding Galaxy!</h1>
  
- <p align="left"><iframe src="https://assets.pinterest.com/ext/embed.html?id=861594972482775150" height="359" width="345" frameborder="0" scrolling="no" ></iframe></p>
+ <p align="left"></p>
  
  ###
 
