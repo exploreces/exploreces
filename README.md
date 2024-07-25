@@ -3,7 +3,7 @@
  <p align="left"></p>
  
  ###
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=861594972482775150" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+
 <img align="right" height="200" src="https://i.pinimg.com/564x/c8/8b/03/c88b036ee8dea33951dc7e5d2a1020d2.jpg"  />
  
 - ✌️ Exploring The coding Galaxy is **Explorces!!**
