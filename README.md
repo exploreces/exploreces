@@ -8,9 +8,9 @@
  
 - ✌️ Exploring The coding Galaxy is **Explorces!!**
 
-- 🔭 I’m currently working on **Exploring DSA**
+- 🔭 I’m currently working on **Exploring JAVA**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **API Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/exploreces](https://github.com/exploreces)
 
